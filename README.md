@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! My name is Willian, i'm from brazil. 
+
+ Sou atualmente **programador de python**, momentaneamente produzindo um bot no discord chamado fênix.
 
 <!--
 **minegt1500/minegt1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
