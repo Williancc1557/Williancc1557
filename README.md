@@ -1,4 +1,4 @@
-### <div align="center">Olá developers, me chamo Willian!</div>
+### <div align="center">Hello developers, Me name is Willian!</div>
 
 <div align="center">
   <a href="https://github.com/Williancc1557">
@@ -6,7 +6,7 @@
 </div>
   
 ##
-### Contato
+### Contact Me
 <div>
   <a href="https://www.instagram.com/willian_cc15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willian-cavalcanti-3981751b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
